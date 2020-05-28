@@ -1,3 +1,1 @@
-# stereocord
-
-https://cancel.fm/ripcord/
+# https://cancel.fm/ripcord/
